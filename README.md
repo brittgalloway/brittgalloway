@@ -4,8 +4,6 @@
 I'm a front-end web developer passionate about blending technology and art, which is my first love. As a creative, I am constantly building something. I come from a fine arts background and initially got into coding to create an art portfolio. My journey has taken me from building an art portfolio (the Sleepy Gallows, noted below!) to developing an e-commerce website for my sister (Candy Fluffs, noted below!). Along the way, I discovered that planning a website and an animation share many similarities. Both require pre-production, production, and post-production phases.
 As a technically proficient and resourceful front-end developer, I have progressive experience designing and developing websites and applications' layouts, visual design, and interactive elements.
 
-![brittgalloway's Stats](https://github-readme-stats.vercel.app/api?username=brittgalloway&theme=vue-light&show_icons=true&hide_border=true&count_private=true)
-
 ## 🚀 About Me
 
 - 🔭 I'm a professional front-end web developer.
@@ -25,18 +23,19 @@ As a technically proficient and resourceful front-end developer, I have progress
 ## Most Used Tools
 [![My Tech Skills](https://skillicons.dev/icons?i=js,html,css,sass,gatsby,next,nodejs,webpack,git&perline=3)](https://skillicons.dev)
 
+## Deployment
+[![My Art Skills](https://skillicons.dev/icons?i=vercel,netlify)](https://skillicons.dev)
+
+
+## Art & Design
+[![My Art Skills](https://skillicons.dev/icons?i=figma,ae,svg,ps,ai,blender&perline=3)](https://skillicons.dev)
+
 ## Actively Learning
 [![My Tech Skills](https://skillicons.dev/icons?i=jest,ts)](https://skillicons.*dev) <br/>
 **Secrets of the Javascript Ninja**
 
 ## Interests
 [![My Art Tech Skills](https://skillicons.dev/icons?i=threejs)](https://skillicons.*dev)
-
-## Art & Design
-[![My Art Skills](https://skillicons.dev/icons?i=figma,ae,svg,ps,ai,blender&perline=3)](https://skillicons.dev)
-
-## Deployment
-[![My Art Skills](https://skillicons.dev/icons?i=vercel,netlify)](https://skillicons.dev)
 
 ## 📬 Get in Touch
 
