@@ -15,14 +15,14 @@ With a background in fine art and traditional animation, I love blending technol
 
 Since 2019, I have gained progressive experience in designing and developing the layout, visual design, and interactive elements of applications. I thrive on the technical challenges that come with creating intuitive websites. I am a problem solver, a creative thinker, and a collaborative team member. I love finding solutions to practical problems.
 ## Technical Skills
-- **Languages**: JavaScript, HTML5
+- **Languages**: JavaScript, HTML5, (S)CSS
 - **Frameworks**: React, Next.js, Node.js
 - **Tools & Platforms**: Github, GitLab, Vercel, Figma, Adobe Suite
 ## Key Projects
-- [Sleepy Gallows Repo](https://github.com/brittgalloway/SleepyGallows): The art portfolio mentioned above. It is used to showcase the art, comics, and animation of the Galloway sisters.
-  - [SleepyGallows.com](https://www.sleepygallows.com/)
 - [Candy Fluffs Repo](https://github.com/brittgalloway/candyfluffs-1): The ecommerce platform I mentioned above. It was built to sell anime-inspired art and comics.
   - [CandyFluffs.com](https://www.candyfluffs.com/)
+- [Sleepy Gallows Repo](https://github.com/brittgalloway/SleepyGallows): The art portfolio mentioned above. It is used to showcase the art, comics, and animation of the Galloway sisters.
+  - [SleepyGallows.com](https://www.sleepygallows.com/)
 ## Professional Goals
 - **Career Development**: I am focused on my career in web development. I'm looking for roles that will strengthen my skills in Next.js, web performance, and unit testing.
 - **Continuous Learning**: Committed to ongoing professional development by utilizing workshops and resources such as (but not limited to) Frontend Masters.
