@@ -1,52 +1,39 @@
 # Hi, I'm Brittney!
-🌟 Problem solver 🌟 Creative Thinker 🌟 Collaborative Team Member 🌟
+🌟 Frontend Developer | 🎨 Creative Problem Solver | 💡 UI/UX Enthusiast
 
- I'm Brittney Galloway, a frontend web developer focusing on user interfaces and experiences.
+I’m a frontend web developer who loves crafting clean, accessible, and performant web experiences. My background in fine art and traditional animation fuels my approach to frontend development—both require planning, iteration, and attention to detail to bring an idea to life.
 
 ## About Me
 
-With a background in fine art and traditional animation, I love blending technology and art. I'm always making something. My journey into web development began with the desire to create an art portfolio (to house art, comics, and animation) and an ecommerce platform for my sister's art. Along the way, I've discovered that the steps to creating an animation and a website share similarities:
-1. Sketches for concept/flow
-2. Storyboards/wireframes
-3. Planning/choosing tools and frameworks
-4. Development
-5. QA/test screenings
-6. Go live/Final render
+My journey into web development started with building an art portfolio and an ecommerce platform for my sister’s artwork. Along the way, I realized that creating a great website is a lot like animation:
 
-Since 2019, I have gained progressive experience in designing and developing the layout, visual design, and interactive elements of applications. I thrive on the technical challenges that come with creating intuitive websites. I am a problem solver, a creative thinker, and a collaborative team member. I love finding solutions to practical problems.
+📝 **Sketches & Concepts** → Wireframes & Prototypes <br/>
+📖 **Storyboards** → User Flows & Design Systems <br/>
+🛠️ **Building the Animation** → Developing Components & Features <br/>
+🔎 **Test Screenings** → Debugging & Unit Testing <br/>
+🎬 **Final Render** → Deployment & Optimization <br/>
+
+Since 2019, I’ve been developing user-friendly interfaces, improving accessibility, and optimizing performance. I enjoy solving real-world problems with CSS, JavaScript, and native browser technologies, and I’m always looking for ways to write cleaner, more maintainable code.
+
 ## Technical Skills
-- **Languages**: JavaScript, HTML5, (S)CSS
-- **Frameworks**: React, Next.js, Node.js
-- **Tools & Platforms**: Github, GitLab, Vercel, Figma, Adobe Suite
+🖥️ **Languages**: JavaScript, TypeScript (learning), HTML5, (S)CSS <br/>
+📦 **Frameworks & Libraries**: React, Next.js, Node.js <br/>
+🎨 **Design & Tools**: Figma, Adobe Suite, GitHub, GitLab, Vercel <br/>
+🛠️ **Other**: Web Accessibility (A11y), Unit Testing, Performance Optimization <br/>
 ## Key Projects
-- [Candy Fluffs Repo](https://github.com/brittgalloway/candyfluffs-1): The ecommerce platform I mentioned above. It was built to sell anime-inspired art and comics.
+- [Candy Fluffs Repo](https://github.com/brittgalloway/candyfluffs-1): An ecommerce platform for anime-inspired art, built with Next.js, DatoCMS, and Snipcart.
   - [CandyFluffs.com](https://www.candyfluffs.com/)
-- [Sleepy Gallows Repo](https://github.com/brittgalloway/SleepyGallows): The art portfolio mentioned above. It is used to showcase the art, comics, and animation of the Galloway sisters.
+- [Sleepy Gallows Repo](https://github.com/brittgalloway/SleepyGallows): My art portfolio showcasing animation, comics, and creative coding experiments.
   - [SleepyGallows.com](https://www.sleepygallows.com/)
-## Professional Goals
-- **Career Development**: I am focused on my career in web development. I'm looking for roles that will strengthen my skills in Next.js, web performance, and unit testing.
-- **Continuous Learning**: Committed to ongoing professional development by utilizing workshops and resources such as (but not limited to) Frontend Masters.
-Keep up with my journey: [Frontend Masters | Brittney's Profile](https://frontendmasters.com/u/BrittneyGalloway/)
+## What I’m Focused On
+📌 Career Growth: I’m looking for roles where I can deepen my expertise in Next.js, performance optimization, and unit testing. <br/>
+📚 Continuous Learning: Currently expanding my skills in TypeScript and automated testing via Frontend Masters. Check out my learning journey: [Frontend Masters | Brittney's Profile](https://frontendmasters.com/u/BrittneyGalloway/)
 
 ## Get in Touch
 
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/brittneygalloway/), I'm very active on the platform.
-- Gmail crlnfllr(at)gamil.com
+💼 [LinkedIn](https://www.linkedin.com/in/brittneygalloway/)  – Let’s connect! <br/>
+📧 crlnfllr(at)gmail.com
 
-Thanks for stopping by! Let's connect and discuss our projects. 🚀
+Thanks for stopping by! Let’s build something great together. 🚀
 
 
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
