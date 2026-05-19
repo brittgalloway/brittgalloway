@@ -1,39 +1,59 @@
-# Hi, I'm Brittney!
-🌟 Frontend Developer | 🎨 Creative Problem Solver | 💡 UI/UX Enthusiast
+# Hi, I'm Brittney 👋
 
-I’m a frontend web developer who loves crafting clean, accessible, and performant web experiences. My background in fine art and traditional animation fuels my approach to frontend development—both require planning, iteration, and attention to detail to bring an idea to life.
+**Frontend Developer** · Accessible UIs · React / Next.js / Gatsby · Chicago, IL
+
+I build interfaces that are fast, inclusive, and maintainable — comfortable 
+across modern React ecosystems and production legacy codebases.
+
+---
 
 ## About Me
 
-My journey into web development started with building an art portfolio and an ecommerce platform for my sister’s artwork. Along the way, I realized that creating a great website is a lot like animation:
+My background is in fine art and traditional animation, which turns out to be 
+surprisingly good training for frontend work. Both require the same loop:
 
-📝 **Sketches & Concepts** → Wireframes & Prototypes <br/>
-📖 **Storyboards** → User Flows & Design Systems <br/>
-🛠️ **Building the Animation** → Developing Components & Features <br/>
-🔎 **Test Screenings** → Debugging & Unit Testing <br/>
-🎬 **Final Render** → Deployment & Optimization <br/>
+| Animation | Development |
+|-----------|-------------|
+| Sketches & Concepts | Wireframes & Prototypes |
+| Storyboards | User Flows & Design Systems |
+| Building the Scene | Developing Components |
+| Test Screenings | Debugging & QA |
+| Final Render | Deployment & Optimization |
 
-Since 2019, I’ve been developing user-friendly interfaces, improving accessibility, and optimizing performance. I enjoy solving real-world problems with CSS, JavaScript, and native browser technologies, and I’m always looking for ways to write cleaner, more maintainable code.
+Since 2021 I've been shipping production interfaces at Cleverbridge — 
+eliminating XSS vulnerabilities, rebuilding core UI layers, and improving 
+workflow efficiency across legacy and modern stacks. Before that, I built 
+an e-commerce platform and art portfolio for my sister's work, which is 
+what pulled me into web development in the first place.
 
-## Technical Skills
-🖥️ **Languages**: JavaScript, TypeScript (learning), HTML5, (S)CSS <br/>
-📦 **Frameworks & Libraries**: React, Next.js, Node.js <br/>
-🎨 **Design & Tools**: Figma, Adobe Suite, GitHub, GitLab, Vercel <br/>
-🛠️ **Other**: Web Accessibility (A11y), Unit Testing, Performance Optimization <br/>
-## Key Projects
-- [Candy Fluffs Repo](https://github.com/brittgalloway/candyfluffs-1): An ecommerce platform for anime-inspired art, built with Next.js, DatoCMS, and Snipcart.
-  - [CandyFluffs.com](https://www.candyfluffs.com/)
-- [Sleepy Gallows Repo](https://github.com/brittgalloway/SleepyGallows): My art portfolio showcasing animation, comics, and creative coding experiments.
-  - [SleepyGallows.com](https://www.sleepygallows.com/)
-## What I’m Focused On
-📌 Career Growth: I’m looking for roles where I can deepen my expertise in Next.js, performance optimization, and unit testing. <br/>
-📚 Continuous Learning: Currently expanding my skills in TypeScript and automated testing via Frontend Masters. Check out my learning journey: [Frontend Masters | Brittney's Profile](https://frontendmasters.com/u/BrittneyGalloway/)
+I care about accessibility not as a checklist but as a craft — semantic HTML, 
+keyboard navigation, and ARIA done right from the start.
 
-## Get in Touch
+---
 
-💼 [LinkedIn](https://www.linkedin.com/in/brittneygalloway/)  – Let’s connect! <br/>
-📧 crlnfllr(at)gmail.com
+## Projects
 
-Thanks for stopping by! Let’s build something great together. 🚀
+**[Candy Fluffs](https://www.candyfluffs.com/)** · [repo](https://github.com/brittgalloway/candyfluffs-1)  
+E-commerce platform for anime-inspired art. Built with Next.js, DatoCMS, 
+and Snipcart. Mobile-first, JAMStack architecture.
 
+**[Sleepy Gallows](https://www.sleepygallows.com/)** · [repo](https://github.com/brittgalloway/SleepyGallows)  
+Art portfolio for animation, comics, and creative coding. Built with Next.js, 
+focused on accessibility and performance.
 
+---
+
+## Skills
+
+**Frameworks:** React, Next.js, Gatsby, Astro, Node.js  
+**Languages:** JavaScript (ES6+), HTML5, CSS3/Sass, TypeScript (in progress)  
+**Strengths:** Web Accessibility (WCAG), Performance Optimization, Semantic HTML  
+**Tools:** Figma, Adobe Suite, Git, GitHub/GitLab, Vercel  
+
+Currently deepening: TypeScript, automated testing via [Frontend Masters](https://frontendmasters.com/u/BrittneyGalloway/)
+
+---
+
+## Get In Touch
+
+[LinkedIn](https://www.linkedin.com/in/brittneygalloway/) · crlnfllr(at)gmail.com
