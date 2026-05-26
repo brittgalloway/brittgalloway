@@ -1,6 +1,6 @@
 # Hi, I'm Brittney 👋
 
-**Frontend Developer** · Accessible UIs · React / Next.js / Gatsby · Chicago, IL
+**Frontend Developer** · Accessible UIs · React / Next.js · Evanston, IL
 
 I build interfaces that are fast, inclusive, and maintainable — comfortable 
 across modern React ecosystems and production legacy codebases.
@@ -27,7 +27,7 @@ an e-commerce platform and art portfolio for my sister's work, which is
 what pulled me into web development in the first place.
 
 I care about accessibility not as a checklist but as a craft — semantic HTML, 
-keyboard navigation, and ARIA done right from the start.
+keyboard navigation, and ARIA done right from the start. I kinda like to let the browser do its thing.
 
 ---
 
