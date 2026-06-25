@@ -41,8 +41,9 @@ and Snipcart. Mobile-first, JAMStack architecture.
 Art portfolio for animation, comics, and creative coding. Built with Next.js, 
 focused on accessibility and performance.
 
-**[Cosmic Tales]()** · [repo]()
-A CSS experiment -- how much of the solar system could be created with just CSS? There are no images on the page! There are also basic facts about each planet. Yes, I included Pluto!
+**[Cosmic Tales](https://brittgalloway.github.io/cosmic-tales/)** · [repo](https://github.com/brittgalloway/cosmic-tales)    
+A CSS experiment -- how much of the solar system could be created with just CSS? 
+There are no images on the page! There are also basic facts about each planet. Yes, I included Pluto!
 
 ---
 
