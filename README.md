@@ -41,6 +41,10 @@ and Snipcart. Mobile-first, JAMStack architecture.
 Art portfolio for animation, comics, and creative coding. Built with Next.js, 
 focused on accessibility and performance.
 
+**[Brittney Lauren Stationery - landing page](https://www.brittneylauren.com/)** · [repo](https://github.com/brittgalloway/brittneylauren)  
+Landing page to collect emails for the Brittney Lauren brand. Built with Alpine.js and GSAP, 
+focused on accessibility and performance.
+
 **[Cosmic Tales](https://brittgalloway.github.io/cosmic-tales/)** · [repo](https://github.com/brittgalloway/cosmic-tales)    
 A CSS experiment -- how much of the solar system could be created with just CSS? 
 There are no images on the page! There are also basic facts about each planet. Yes, I included Pluto!
@@ -52,9 +56,9 @@ There are no images on the page! There are also basic facts about each planet. Y
 **Frameworks:** React, Next.js, Gatsby, Astro, Node.js  
 **Languages:** JavaScript (ES6+), HTML5, CSS3/Sass, TypeScript (in progress)  
 **Strengths:** Web Accessibility (WCAG), Performance Optimization, Semantic HTML  
-**Tools:** Figma, Adobe Suite, Git, GitHub/GitLab, Vercel  
+**Tools:** Figma, Adobe Suite, GSAP, Git, GitHub/GitLab, Vercel  
 
-Currently deepening: TypeScript, automated testing via [Frontend Masters](https://frontendmasters.com/u/BrittneyGalloway/)
+Currently deepening: Automated testing via [Frontend Masters](https://frontendmasters.com/u/BrittneyGalloway/)
 
 ---
 
